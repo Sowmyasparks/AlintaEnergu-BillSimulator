@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-alinta-orange: #ff6100;
+  --color-alinta-blue: #196CFF;
+
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply antialiased bg-gray-50 text-slate-900;
+  }
+}

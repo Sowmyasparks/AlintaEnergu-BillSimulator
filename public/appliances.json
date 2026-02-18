@@ -1,0 +1,9 @@
+[
+  { "id": "ac", "name": "Air Conditioner", "kwh": 2.5 },
+  { "id": "ec", "name": "Electric Oven", "kwh": 2.0 },
+  { "id": "pp", "name": "Pool Pump", "kwh": 1.5 },
+  { "id": "dw", "name": "Dishwasher", "kwh": 1.2 },
+  { "id": "ev", "name": "EV Charger", "kwh": 7.0 },
+  { "id":"wm", "name": "Washing Machine", "kwh": 0.8 },
+  { "id": "sf", "name": "Smart Fridge", "kwh": 0.15 }
+]
