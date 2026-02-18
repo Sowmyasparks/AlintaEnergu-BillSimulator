@@ -45,6 +45,6 @@ The UI is built using **Tailwind CSS v4**, utilizing the new `@theme` variable s
 
 1. **Clone & Install:**
    ```bash
-   git clone [your-repository-url]
-   cd alinta-horizon
+   git clone https://github.com/Sowmyasparks/AlintaEnergu-BillSimulator
+   cd AlintaEnergu-BillSimulator
    npm install
